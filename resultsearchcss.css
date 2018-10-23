@@ -1,0 +1,126 @@
+#header{
+	width: 100%;
+	height: 100px;
+	background-color: green;
+}
+#topheader{
+	width: 100%;
+	height: 50px;
+	background-color: pink;
+}
+#bodyheader{
+	width: 100%;
+	height: 50px;
+}
+#hieusachtext{
+	float: left;
+}
+#emailtext{
+	float: left;
+	margin-left: 600px;
+}
+#sdttext{
+	float: left;
+	margin-left: 10px;
+}
+#dangkilink{
+	float: left;
+	margin-left: 200px;
+	margin-right: 10px;
+	text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+#menupart{
+	width: 70%;
+	float: left;
+}
+#searchspace{
+	float: left;
+}
+#searchbutton{
+	float: left;
+}
+#searchpart{
+	float: left;
+	width: 30%;
+}
+
+#typebook{
+	height: 300px;
+	width: 400px;
+	float: left;
+	width: 30%;
+}
+#image{
+	float: left;
+	width: 70%;
+	height: 500px;
+}
+#dstext{
+	text-align: center;
+}
+#menubody{
+	text-align: center;
+	padding-top: 50px;
+}
+.book{
+	width: 70px;
+	height: 90px;
+}
+.abook{
+	float: left;
+	margin-left: 110px;
+}
+#topsachtext{
+	text-align: center;
+}
+#text1{
+	color: green;
+	font-size: 20px;
+}
+#footer{
+	clear: left;
+	height: 100px;
+	width: 100%;
+	background-color: pink;
+}
+.bookresult{
+	float: left;
+	margin-right: 50px;
+}
+
+.bookredetail{
+	width: 70px;
+	height: 90px;
+}
+#result{
+	float: left;
+	height: 300px;
+	width: 70%;
+}
+#ketquatext{
+
+}
+#bestsale{
+	background-color: #ddd;
+	height: 200px;
+	width: 100%;
+}
